@@ -1,0 +1,32 @@
+{
+    "clubs": [
+        {
+            "name": "Coding Club",
+            "teacher": "Mr. P",
+            "room": "Room 209",
+            "img": "https://ourcodingclub.github.io/assets/img/logos/logo_hex_cc.png",
+            "desc": "Our coding club brings kids together to solve problems, share ideas, encourage each other through mistakes, and applaud for each other's successes."
+        },
+        {
+            "name": "Chess Club",
+            "teacher": "Ms. Zhang",
+            "room": "Room 206",
+            "img": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=600,h=560,fit=crop/m5KxWWjBrOsLxOlr/d9f8afb1-0929-49a1-ae33-26cc4c53a42d-YrD6Byyb51h41z6N.jpeg",
+            "desc": "Welcome to the Ontario Student Led Chess Association (OntarioSLCA), where we believe in using chess to make a difference. As a province-wide organization, our goal is to unite students across Ontario through the love of chess, fostering both community and competition. We organize and host a variety of chess tournaments, including the prestigious Halton Chess Championship, which brings together top talent from across the region."
+        },
+        {
+            "name": "Robotics",
+            "teacher": "Mr. Druiven",
+            "room": "Cafeteria",
+            "img": "https://www.firstinspires.org/sites/default/files/uploads/hero_headers/header-image_1.jpg",
+            "desc": "We play with robots."
+        },
+        {
+            "name": "Newspaper Club",
+            "teacher": "Ms. Maharaj",
+            "room": "Room 119",
+            "img": "https://m.media-amazon.com/images/I/91ijvnFdMYL._AC_UF1000,1000_QL80_.jpg",
+            "desc": "Help write the school's newspaper! We require comic artists, story writers, and photographers!"
+        }
+    ]
+}
